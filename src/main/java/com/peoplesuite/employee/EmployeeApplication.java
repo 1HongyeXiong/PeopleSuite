@@ -1,10 +1,10 @@
-package com.peoplesuite;
+package com.peoplesuite.employee;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class EmployeeApplication
 {
     public static void main( String[] args )
     {
